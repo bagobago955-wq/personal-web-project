@@ -1,0 +1,62 @@
+[
+  {
+    "name": "3D Portfolio Website",
+    "desc": "portfolio showcasing my skills with GLSL shaders and Three.js, along with a platform to display all my side projects and experiments.",
+    "image": "3dportofolio",
+    "category": "3dweb",
+    "links": {
+      "view": "https://muhammadnouvalarrizqy.vercel.app/",
+      "code": "https://github.com/nouvalrizqy05-ui/portofolio"
+    }
+  },
+  {
+    "name": "Nouval OS",
+    "desc": "This is the most personal section of my portfolio, a simulated Windows OS with various desktop tools and references.",
+    "image": "nouvalos",
+    "category": "basicweb",
+    "links": {
+      "view": "https://nouval-os.vercel.app/",
+      "code": "https://github.com/nouvalrizqy05-ui/nouval-os"
+    }
+  },
+  {
+    "name": "Nouval Art Gallery",
+    "desc": "In this part of my portfolio, I aimed to recreate a virtual first-person experience of exploring an art gallery.",
+    "image": "nouvalart",
+    "category": "3dweb",
+    "links": {
+      "view": "https://nouval-art-gallery.vercel.app/",
+      "code": "https://github.com/nouvalrizqy05-ui/nouval-art-gallery"
+    }
+  },
+  {
+    "name": "Dignified Website",
+    "desc": "Official website of Dignified Generation, final grade student of MTI Al Ishlah Islamic Boarding School.",
+    "image": "dignified",
+    "category": "basicweb",
+    "links": {
+      "view": "https://dignifiedgen.vercel.app/",
+      "code": "https://github.com/nouvalrizqy05-ui/web-kelas"
+    }
+  },
+  {
+    "name": "Portofolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "eportofolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://nouval-arrizqy.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Data Visualization Website",
+    "desc": "A Visualization Website for Student Data Using Chart.js Library.",
+    "image": "algomaster",
+    "category": "basicweb",
+    "links": {
+      "view": "https://visual-algomaster.vercel.app/",
+      "code": "https://github.com/nouvalarrrgh/Algorithmic-ScienceLab"
+    }
+  }
+]
