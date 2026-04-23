@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Silver Medal - National",
+    "desc": "Achieved Silver Medal in National Olympiad of Academic (NOA) 2024 for Biology competition, held by Puskantara.",
+    "image": "achievement1",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Biologi - NOA 2024.pdf"
+    }
+  },
+  {
+    "name": "Bronze Medal - National",
+    "desc": "Achieved Bronze Medal in Pekan Kompetisi Akademik Nasional (PKAN) 2024 for Informatics competition, held by PON Indonesia",
+    "image": "achievement2",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Informatika - PKAN 2024.pdf"
+    }
+  },
+  {
+    "name": "Silver Medal - National",
+    "desc": "Achieved Silver Medal in Olimpiade Siswa Tingkat Nasional (OSTN) 2024 for Physics competition, held by Yapresindo.",
+    "image": "achievement3",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Fisika - OSTN 2024.pdf"
+    }
+  },
+  {
+    "name": "Gold Medal - National",
+    "desc": "Achieved Gold Medal in Olimpiade Siswa Tingkat Nasional (OSTN) 2024 for Chemistry competition, held by Yapresindo.",
+    "image": "achievement4",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Kimia - OSTN 2024.pdf"
+    }
+  },
+  {
+    "name": "Silver Medal - National",
+    "desc": "Achieved Silver Medal in Olimpiade Nasional Sains dan Bahasa (ONSB) 2025 for Mathematics competition, held by Braindicator Indonesia.",
+    "image": "achievement5",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Matematika - ONSB 2025.pdf"
+    }
+  },
+  {
+    "name": "Bronze Medal - National",
+    "desc": "Achieved Bronze Medal in Pekan Olimpiade Sains Bahasa dan Agama Nasional (POSBASNAS) 2025 for Mathematics competition, held by PON Indonesia.",
+    "image": "achievement6",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Matematika - POSBANAS 2025.pdf"
+    }
+  },
+  {
+    "name": "Gold Medal - National",
+    "desc": "Achieved Gold Medal in Pekan Olimpiade Sains Bahasa dan Agama Nasional (POSBASNAS) 2025 for Physics competition, held by PON Indonesia.",
+    "image": "achievement7",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Fisika - POSBANAS 2025.pdf"
+    }
+  },
+  {
+    "name": "Gold Medal - National",
+    "desc": "Achieved Gold Medal in Indonesia Science Academic Competitions (ISAC) 2025 for Biology competition, held by Puskantara.",
+    "image": "achievement8",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Biologi - ISAC 2025.pdf"
+    }
+  },
+  {
+    "name": "Gold Medal - National",
+    "desc": "Achieved Gold Medal in Olimpiade Pelajar Nasional (OPN) for Chemistry competition, held by Yapresindo.",
+    "image": "achievement9",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Kimia - OPN 2025 (1).pdf"
+    }
+  },
+  {
+    "name": "Gold Medal - National",
+    "desc": "Achieved Gold Medal in Olimpiade Pelajar Nasional (OPN) for English competition, held by Yapresindo.",
+    "image": "achievement10",
+    "category": "Awards",
+    "links": {
+      "view": "../linkprestasi/piag_Bahasa Inggris - OPN 2025.pdf"
+    }
+  },
+  {
+    "name": "Mentimeter Certified - Coursera - International",
+    "desc": "Certified in designing modern, interactive presentation experiences. Proficient in transforming static material into engaging content.",
+    "image": "achievement11",
+    "category": "Certification",
+    "links": {
+      "view": "../linkprestasi/Coursera TT1EW717OMNC.pdf"
+    }
+  },
+  {
+    "name": "Scratch Certified - Coursera - International",
+    "desc": "Certified in basic game design and development. Proficient in building interactive mechanics, animations, and logic-based gameplays",
+    "image": "achievement12",
+    "category": "Certification",
+    "links": {
+      "view": "../linkprestasi/Coursera G3Z4T8DSIWC3.pdf"
+    }
+  },
+  {
+    "name": "Wix Certified - Coursera - International",
+    "desc": "Certified in website design and development using Wix platform. Proficient in creating visually appealing and functional websites.",
+    "image": "achievement13",
+    "category": "Certification",
+    "links": {
+      "view": "../linkprestasi/Coursera H10VRVZ3LSGI.pdf"
+    }
+  },
+  {
+    "name": "Ms. Excel Certified - Coursera - International",
+    "desc": "Certified in Microsoft Excel. Proficient in data analysis, visualization, and automation.",
+    "image": "achievement14",
+    "category": "Certification",
+    "links": {
+      "view": "../linkprestasi/Coursera AMAYA7OYGUBX.pdf"
+    }
+  }
+]
